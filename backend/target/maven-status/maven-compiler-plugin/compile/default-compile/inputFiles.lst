@@ -1,0 +1,17 @@
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\config\SecurityConfig.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\controller\AuthController.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\controller\CourseController.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\dto\AuthResponse.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\dto\ErrorResponse.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\dto\GoogleAuthRequest.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\dto\LoginRequest.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\dto\RegisterRequest.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\model\Course.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\model\User.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\repository\CourseRepository.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\repository\UserRepository.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\security\GoogleTokenVerifier.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\security\JwtAuthFilter.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\security\JwtUtil.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\service\AuthService.java
+D:\infosys_springboard\project______1\Skillsphere\backend\src\main\java\com\skillsphere\SkillsphereApplication.java
