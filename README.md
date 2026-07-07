@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillSphere Learning Nexus
 
 Full-stack recreation of the landing page: **React (Vite + Tailwind) frontend**, **Spring Boot + JWT backend**, **MySQL database**.
@@ -87,3 +88,6 @@ the backend isn't running yet.
 - CORS is pre-configured to allow the Vite dev server origin (`localhost:5173`).
 - To add protected pages (e.g. a student dashboard), add `.authenticated()` routes
   in `SecurityConfig.java` and check for the token in the frontend router.
+=======
+# TeamB_SkillSphere-Learning-nexus-fsd-
+>>>>>>> 012833b7e48c1c7d1dac64c8b91dfd8e454bc814
